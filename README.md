@@ -5,15 +5,20 @@ I am an Assistant Professor in the School of Management, Shandong University. I 
 # Research
 
 My current research interest focuses on machine/deep learning and its application in quantitive trading.
-My previous research and Survival Analysis, Bayesian Methods, Latent Variable Modeling, Semiparametric/Nonparametric Modeling.
+My previous research and publications are primarily on Survival Analysis, Bayesian Methods, Latent Variable Modeling, Semiparametric/Nonparametric Modeling.
 
 # Papers
 
 1 Yang, Q., & Song, Y. (2019). Data driven confidence intervals for diffusion process using double smoothing empirical likelihood. Journal of Computational and Applied Mathematics, 348, 282-297.
 
-2 Yang, Q., He, H., Lu, B., & Song, X. (2022). Mixture additive hazards cure model with latent variables: Application to corporate default data. Computational Statistics & Data Analysis, to appear.
+2.	Yang Q, He, H. J., Lu, B., Song, X. Y. Mixture additive hazards cure model with latent variables: Application to corporate default data. Computational Statistics & Data Analysis, 2022, 167, p.107365.
 
-3 Yang, Q., He, H., & Song, X. (2022). Time-varying coefficient additive hazards model with latent variables. Statistical Methods in Medical Research, to appear.
+3.	Yang Q, He, H. J., Song, X. Y. Time-varying coefficient additive hazards model with latent variables. Statistical Methods in Medical Research, 31(5), pp.928-946.
+
+4.	Yang, Q., He, H. and Song, X., 2022. Generalized Structural Equation Model with Survival Outcomes and Time-Varying Coefficients. Structural Equation Modeling: A Multidisciplinary Journal, pp.1-13.
+
+5.  Wang, C., Yang, Q., Zhou, X., Song, X., 2022. Bayesian Quantile Latent Factor on Image Regression. Structural Equation Modeling: A Multidisciplinary Journal, accepted.
+
 
 # Teaching
 # Resource
