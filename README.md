@@ -4,7 +4,7 @@ I am an Assistant Professor in the School of Management, Shandong University. I 
 
 # Research
 
-My current research interest focuses on machine/deep learning and its application in quantitive trading.
+My current research interest focuses on machine/deep learning and its application in quantitative trading.
 My previous research and publications are primarily on Survival Analysis, Bayesian Methods, Latent Variable Modeling, Semiparametric/Nonparametric Modeling.
 
 # Papers
