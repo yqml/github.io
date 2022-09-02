@@ -1,10 +1,11 @@
 # Home
 
-I am an Associate Professor in the School of Management, Shandong University. I obtained my Ph.D. from the Department of Statistics, Chinese University of Hong Kong in July 2021, and worked as a postdoctoral researcher in the Department of Statistics, Chinese University of Hong Kong until February 2022. Previously, I received my B.S. (Mathematics) from Shandong University.
+I am an Assistant Professor in the School of Management, Shandong University. I obtained my Ph.D. from the Department of Statistics, Chinese University of Hong Kong in July 2021, and worked as a postdoctoral researcher in the Department of Statistics, Chinese University of Hong Kong until February 2022. Previously, I received my B.S. (Mathematics) from Shandong University.
 
 # Research
 
-My research focuses on Survival Analysis, Bayesian Methods, Latent Variable Modeling, Semiparametric/Nonparametric Modeling.
+My current research interest focuses on machine/deep learning and its application in quantitive trading.
+My previous research and Survival Analysis, Bayesian Methods, Latent Variable Modeling, Semiparametric/Nonparametric Modeling.
 
 # Papers
 
